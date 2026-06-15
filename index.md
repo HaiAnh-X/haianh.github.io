@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ---
-Xin chào / Hi / Salut / Hallo . I'm Hai-Anh LE (Léon), I come from Vietnam.
+Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon), I come from Vietnam. This is my tiny personal page. 
 
 Master student in Electrical Engineering - PhD Track Program at the Institut Polytechnique de Paris, France. Also, I am a Visiting Researcher at the Machine Learning and Simulation Lab (Institute for Artificial Intelligence) at the University of Stuttgart, Germany.
 
