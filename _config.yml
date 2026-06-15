@@ -17,6 +17,8 @@ minima:
     - profile.md
     - social_blog.md
     - technical_blog.md
+    - project.md
+    - book.md
 
   # Các liên kết mạng xã hội dưới chân trang (Footer)
   social_links:
