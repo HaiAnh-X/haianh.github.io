@@ -20,7 +20,6 @@ permalink: /about/
 * French: B2
 * German: B1
 ---
----
 
 ### 🛠️ Core Research Toolkit
 * Sofware: Python, Pytorch, JAX, CUDA, ONNX
