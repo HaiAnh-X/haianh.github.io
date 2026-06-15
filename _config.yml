@@ -1,28 +1,28 @@
-title: "Leon's Academic Space"
+title: "Léon's Space"
 author:
-  name: "Anh Hai Le (Leon)"
+  name: "Anh Hai Le (Léon)"
   email: "hai.le@ip-paris.fr"
-description: "AI Researcher | Model Compression & Tensor Methods"
+description: "Machine Learning and Automation "
 
 
 theme: minima
 
 
 minima:
-  skin: classic          # Giao diện sáng tối giản (có thể đổi thành dark hoặc auto)
+  skin: auto          
   date_format: "%b %-d, %Y"
-  show_excerpts: true    # Hiển thị đoạn trích ngắn của bài viết ở trang chủ
+  show_excerpts: true    
 
-  # Danh sách các trang hiển thị trên thanh Menu điều hướng
   nav_pages:
-    - about.md
-    - blog.md
+    - profile.md
+    - social_blog.md
+    - technical_blog.md
 
   # Các liên kết mạng xã hội dưới chân trang (Footer)
   social_links:
     - title: GitHub
       icon: github
-      url: "https://github.com/username"
+      url: "https://github.com/HaiAnh-X"
     - title: LinkedIn
       icon: linkedin
-      url: "https://linkedin.com/in/username"
+      url: "https://www.linkedin.com/in/hai-anh-le-156766292/"
