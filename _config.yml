@@ -1,27 +1,13 @@
-title: "Léon's Space"
-author:
-  name: "Anh Hai Le (Léon)"
-  email: "hai.le@ip-paris.fr"
-description: "Machine Learning and Automation "
-
-
+title: "Anh's Space"
 theme: minima
-
+description: "Machine Learning and Automation"
+owner: "HaiAnh-X" 
 
 minima:
   skin: auto          
   date_format: "%b %-d, %Y"
   show_excerpts: true    
-
   nav_pages:
     - about.md
     - project.md
     - book.md
-
-  social_links:
-    - title: GitHub
-      icon: github
-      url: "https://github.com/HaiAnh-X"
-    - title: LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/hai-anh-le-156766292/"
