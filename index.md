@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Anh LE (Léon)"
+title: "Home"
 ---
 
 I am a PhD Track student in Electrical Engineering at the **Institut Polytechnique de Paris**. Currently, I am a Visiting Research Intern at the **Machine Learning and Simulation Lab** (Institute for Artificial Intelligence) at the **University of Stuttgart**.
