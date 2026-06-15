@@ -6,7 +6,7 @@ permalink: /books/
 
 Here is a curated list of books and textbook chapters that I would love to master for improving my academic career.
 
-## 🧠 Technical & Scientific Books
+## Technical & Scientific Books
 
 | Title | Author | Status | 
 | :--- | :--- | :--- |
