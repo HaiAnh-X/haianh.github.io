@@ -6,13 +6,13 @@ permalink: /about/
 
 ### Educational Background
 
-* Institut Polytechnique de Paris (IP Paris), France** (Oct 2025 - Present)
+* Institut Polytechnique de Paris (IP Paris), France (Oct 2025 - Present)
   * Program: PhD Track in Electrical Engineering ( 5 years)
   * 2025-2026: M1 DATAPAC - Data Analysis and Pattern Classification
   * 2026-2027: M2 MICAS - Machine learnIng, CommunicAtions, and Security  
 
-* **Hanoi University of Science and Technology (HUST), Vietnam** (2021 - 2025) - Early Graduation
-  * **Degree:** Bachelor of Science in Control Engineering and Automation.
+* Hanoi University of Science and Technology (HUST), Vietnam (2021 - 2025) - Early Graduation
+  * Degree: Bachelor of Science in Control Engineering and Automation.
 ---
 ### Language Proficiencies
 
