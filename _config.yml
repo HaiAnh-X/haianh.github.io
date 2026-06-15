@@ -15,12 +15,11 @@ minima:
 
   nav_pages:
     - profile.md
-    - social_blog.md
-    - technical_blog.md
+    - blog.md
+    - about.md
     - project.md
     - book.md
 
-  # Các liên kết mạng xã hội dưới chân trang (Footer)
   social_links:
     - title: GitHub
       icon: github
