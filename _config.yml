@@ -1,5 +1,7 @@
 title: "Anh's Space"
 theme: minima
+description: "Machine Learning and Automation"
+owner: "HaiAnh-X" 
 
 minima:
   skin: auto          
