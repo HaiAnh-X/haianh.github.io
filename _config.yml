@@ -15,7 +15,6 @@ minima:
 
   nav_pages:
     - profile.md
-    - blog.md
     - about.md
     - project.md
     - book.md
