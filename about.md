@@ -38,3 +38,93 @@ permalink: /about/
 * Jun 2026 - Sep 2026: Visiting Research Intern at the Machine Learning and Simulation Lab, University of Stuttgart, Germany (Collaborating with Prof. Mathias Niepert)
 * Jul 2025 - Present: Faculty Development Fellow - Department of Automation Engineering, School of Electrical-Electronics, Hanoi University of Science and Technology (HUST), Vietnam
 * Mar 2022 - Mar 2025: Research Assistant - Signal Processing Team at LIDP Lab
+
+---
+### Studied
+* Implemented ML from Scratch: [Pytorch](https://github.com/HaiAnh-X/Leetcode-Pytorch)
+* Mathematics: [Julia](https://github.com/HaiAnh-X/TensorDecom-in-Julia)
+
+#### Tensor Decomposition
+* Tensor operations
+* Tucker decomposition
+* Tensor train decomposition
+* Canonical polyadic (CP) decomposition
+* Kruskal tensor structure
+
+#### Generative Modelling
+* GANs
+* VAEs and VAE ELBO
+* Score Function
+* Diffusion Forward Process
+* Diffusion Reverse Process (DDIM / DDPM)
+* Diffusion Forward / Reverse SDE
+* Flow Matching ODE
+* Classifier Free Guidance
+
+#### Applied ML
+* Tensor Parallelism
+* FSDP
+* DDP
+* Pipeline Parallelism
+* Communication Primitives
+* Mixed precision training
+* Gradient checkpointing
+* Gradient accumulation
+* Profiling
+* Gradient clipping
+* Numerical precision tricks
+* Exploding / vanishing gradients
+* Floating point representation
+* JIT compiling
+* JAX, PyTorch, TensorFlow
+* Quantization
+* Prunning
+* Merging
+
+#### Theory ML
+* Curse of dimensionality
+* S4
+* CNNs
+* RNNs / LSTMs
+* Autoencoders
+* Gumbel-Softmax
+* MLE vs MAP
+* Newton's Method
+* Linear Regression
+* Activation Functions
+* Loss Functions
+* No Free Lunch Theorem
+* BatchNorm / LayerNorm / RMSNorm
+* Variance and Covariance
+* Adam / AdamW / Adagrad
+* Bias-Variance Tradeoff
+* Backprop
+* Regularisation Methods
+* Unsupervised vs Supervised
+* Clustering Algorithms (e.g. k-means)
+* K-Nearest Neighbours
+* SVMs
+* Boosting
+* Bagging
+* Decision Trees
+* Ensembles
+* Bayes Theorem
+* Precision / Recall / F1 / AUC-ROC
+* KL Divergence
+* Jensen-Shannon Divergence
+* Weight initialisation
+* Gradient Descent / SGD
+* Overfitting / Underfitting
+* Cross validation
+* Data Whitening
+* Convex functions
+* Early Stopping
+* Domain Adaptation
+* Dimensionality Reduction *(Fixed typo)*
+* Transfer Learning
+* Few shot / Zero shot learning
+* Second Order Methods
+* Expectation
+* Entropy
+* PDF / PMF
+* Confidence Intervals
