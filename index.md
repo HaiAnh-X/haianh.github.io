@@ -2,7 +2,7 @@
 layout: home
 title: "Home"
 ---
-
+<img src="/asset/avatar_web.jpg" alt="Hai-Anh LE" style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; float: right; margin: 0 0 20px 20px; border: 1px solid #eee;">
 I am a PhD Track student in Electrical Engineering at the **Institut Polytechnique de Paris**. Currently, I am a Visiting Research Intern at the **Machine Learning and Simulation Lab** (Institute for Artificial Intelligence) at the **University of Stuttgart**.
 
 ## Research Interests
