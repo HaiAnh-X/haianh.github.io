@@ -4,7 +4,7 @@ title: "Book"
 permalink: /books/
 ---
 
-Here is a curated list of books and textbook chapters that I would love to master for improving my academic career.
+Here is a curated list of books and textbook chapters that I've read for improving myself.
 
 ## Technical & Scientific Books
 
@@ -15,12 +15,13 @@ Here is a curated list of books and textbook chapters that I would love to maste
 | **Convex Optimization**| Stephen Boyd and Lieven Vandenberghe | Timeless |
 | **Academic Press Library in Signal Processing Series**| Elsevier | Everything you need for an EE diploma.|
 
-##  Research Skills
+##  Other Skills
 
 | Title | Author | Review | 
 | :--- | :--- | :--- |
 | **Methods of Persuasion** | Nick Kolenda | Teached me a lot  |
 | **Introduction to PSYCHOLOGY** | Charles Stangor | Breakdown yourself|
+
 
 ---
 
