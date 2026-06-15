@@ -1,24 +1,11 @@
 title: "Anh's Space"
-description: "Machine Learning and Automation "
-
-
 theme: minima
-
 
 minima:
   skin: auto          
   date_format: "%b %-d, %Y"
   show_excerpts: true    
-
   nav_pages:
     - about.md
     - project.md
     - book.md
-
-  social_links:
-    - title: GitHub
-      icon: github
-      url: "https://github.com/HaiAnh-X"
-    - title: LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/hai-anh-le-156766292/"
