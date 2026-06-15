@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Home"
 ---
 <img src="https://github.com/HaiAnh-X/haianh.github.io/blob/main/asset/avatar_web.jpg" alt="Anh Le" style="width: 140px; height: 190px; border-radius: 6px; object-fit: cover; float: right; margin: 0 0 20px 20px; border: 1px solid #eee; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
