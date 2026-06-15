@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 <img src="/asset/avatar_web.jpg" alt="Anh Le" style="width: 140px; height: 190px; border-radius: 6px; object-fit: cover; float: right; margin: 0 0 20px 20px; border: 1px solid #eee; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-I am a PhD Track student in Electrical Engineering at the **Institut Polytechnique de Paris**. Currently, I am a Visiting Research Intern at the **Machine Learning and Simulation Lab** (Institute for Artificial Intelligence) at the **University of Stuttgart**.
+Master student in Electrical Engineering - PhD Track Program at the **Institut Polytechnique de Paris**, France. Also, I am a Visiting Researcher at the **Machine Learning and Simulation Lab** (Institute for Artificial Intelligence) at the **University of Stuttgart**, Germany.
 
 ## Research Interests
 My research focuses on **Efficient AI**, **Model Compression**, and **Tensor Decomposition**
