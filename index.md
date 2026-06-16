@@ -2,12 +2,12 @@
 layout: page
 title: "Home"
 ---
-Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon), I come from Vietnam. This is my tiny personal page. 
+Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon). This is my tiny personal page. I'm actively looking for PhD position for 2027 Fall Intake.
 
 Master student in Electrical Engineering - PhD Track Program at the Institut Polytechnique de Paris, France. Also, I am a Visiting Researcher at the Machine Learning and Simulation Lab (Institute for Artificial Intelligence) at the University of Stuttgart, Germany.
 
 ## Research Interests
-My research focuses on Efficient AI, Model Compression, and Tensor Decomposition
+My research focuses on Efficient AI, theory of compression, and tensor decomposition.
 
 ## Selected Publications & Projects
 * 05/2026: Efficient Memory-constrained Video Object Segmentation via Subspace Optimization *Submitted to NeurIPS 2026*
