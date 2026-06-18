@@ -40,10 +40,11 @@ permalink: /about/
 * Mar 2022 - Mar 2025: Research Assistant - Signal Processing Team at LIDP Lab
 
 ---
-### Studied
+### Studied 
+Those repositories includes latest technique from scratch.
 * Implemented ML from Scratch: [Pytorch](https://github.com/HaiAnh-X/Leetcode-Pytorch)
 * Mathematics: [Julia](https://github.com/HaiAnh-X/TensorDecom-in-Julia)
-
+* Torch Leetcode: [Pytorch](https://github.com/HaiAnh-X/TorchLeet-)
 #### Tensor Decomposition
 * Tensor operations
 * Tucker decomposition
