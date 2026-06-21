@@ -68,7 +68,7 @@ Most of this knowledge was inspired by my study program, particularly the introd
 * GANs
 * VAEs and VAE ELBO
 * Score Function
-* 
+  
 #### Diffusion : [UNet](https://github.com/HaiAnh-X/Diffusion)
 * Diffusion Forward Process 
 * Diffusion Reverse Process (DDIM / DDPM)
