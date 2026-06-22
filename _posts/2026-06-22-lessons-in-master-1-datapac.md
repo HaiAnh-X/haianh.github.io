@@ -55,7 +55,7 @@ Behavior Biometrics
        - shape-related features as length to width ratio, histogram of pathtangent angles.
 6. Model-based Verification
 
-![Model-based Verification]({{ '/assets/model_based_verification.png' | relative_url }})
+![Model-based Verification]({{ '/assets/post/datapac/model_based_verification.png' | relative_url }})
 
 
   How do we measure performance ?
@@ -109,7 +109,7 @@ $$P(x/\lambda) = \sum_{i=1}^{K}C_iN(x/\mu_i\sum_i)$$
              - 3 covariance matrices
    - Signature Verification with HMMs
 
-![Signature Verification]({{ '/assets/signature_verification.png' | relative_url }})
+![Signature Verification]({{ '/assets/post/datapac/signature_verification.png' | relative_url }})
 
 8. A one expert fusion-based approach
 
