@@ -6,18 +6,14 @@ title: "Home"
 > "For my part, I will never give up, and I mean never."
 > — *Elon Musk*
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
-  <tr>
-    <td style="width: 50%; vertical-align: top; padding-right: 20px; border: none;">
-      <p>Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon). This is my tiny personal page. I'm actively looking for PhD position for 2027 Fall Intake.</p>
-      <p>Master student in Electrical Engineering - PhD Track Program at the Institut Polytechnique de Paris, France. 
-      <p>Also, I am a Visiting Researcher at the Machine Learning and Simulation Lab (Institute for Artificial Intelligence) at the University of Stuttgart, Germany.</p>
-    </td>
-    <td style="width: 50%; vertical-align: top; border: none;">
-      <img src="/asset/avatar_web.jpg" alt="Hai-Anh LE" style="width: 100%; border-radius: 8px; border: none;">
-    </td>
-  </tr>
-</table>
+<div style="width: 50%; float: left; margin-right: 20px;">
+  <img src="/asset/avatar_web.jpg" alt="Hai-Anh LE" style="width: 30%; border-radius: 8px;">
+</div>
+
+Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon). This is my tiny personal page. I'm actively looking for PhD position for 2027 Fall Intake.</p>
+Master student in Electrical Engineering - PhD Track Program at the Institut Polytechnique de Paris, France. 
+Also, I am a Visiting Researcher at the Machine Learning and Simulation Lab (Institute for Artificial Intelligence) at the University of Stuttgart, Germany.</p>
+
 
 ## Research Interests
 My research focuses on Efficient AI, theory of compression, and tensor decomposition.
