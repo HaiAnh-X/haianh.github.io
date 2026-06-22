@@ -6,9 +6,7 @@ title: "Home"
 > "For my part, I will never give up, and I mean never."
 > — *Elon Musk*
 
-<div style="text-align: center;">
-  <img src="/asset/avatar_web.jpg" alt="Mô tả ảnh" style="width: 30%;">
-</div>
+![C'est moi](/asset/avatar_web.jpg)
 
 Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon). This is my tiny personal page. I'm actively looking for PhD position for 2027 Fall Intake.
 
