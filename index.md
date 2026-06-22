@@ -8,6 +8,8 @@ title: "Home"
 
 Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon). This is my tiny personal page. I'm actively looking for PhD position for 2027 Fall Intake.
 
+![Avatar](/asset/avatar_web.jpg)
+
 Master student in Electrical Engineering - PhD Track Program at the Institut Polytechnique de Paris, France. Also, I am a Visiting Researcher at the Machine Learning and Simulation Lab (Institute for Artificial Intelligence) at the University of Stuttgart, Germany.
 
 ## Research Interests
