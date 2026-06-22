@@ -12,6 +12,4 @@ minima:
     - project.md
     - book.md
 
-kramdown:
-  math_engine: mathjax
 
