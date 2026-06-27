@@ -15,7 +15,7 @@ Also, I am a Visiting Researcher at the Machine Learning and Simulation Lab (Ins
 
 
 ## Research Interests
-My research focuses on Efficient AI, theory of compression, and tensor decomposition.
+Solid background in mathematics for machine learning, specializing in tensor/matrix decomposition, compression, and information theory.
 
 ## Selected Publications & Projects
 * 05/2026: Efficient Memory-constrained Video Object Segmentation via Subspace Optimization *Submitted to NeurIPS 2026*
