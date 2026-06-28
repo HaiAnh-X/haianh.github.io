@@ -12,6 +12,7 @@ My latest research projects and implementations from bachelor to Master. In the 
 * **Focus:** Tensor Decomposition, Machine Learning 
 * **Status:** Submitted to *NeurIPS 2026*.
 * **TLDR:** Developed an efficient framework for video object segmentation under strict memory constraints leveraging tensor factorization methods to drastically reduce redundancy without sacrificing accuracy.
+  
 ---
 
 ### Application
