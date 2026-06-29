@@ -13,7 +13,9 @@ Here is a curated list of books and textbook chapters that I've read for improvi
 | **Tensor Decompositions for Data Science** | Grey Ballard, Tamara G. Kolda | G.O.A.T |
 | **Elements of Information Theory** | Thomas M. Cover, Joy A. Thomas | Classic, Respectful |
 | **Convex Optimization**| Stephen Boyd and Lieven Vandenberghe | Timeless |
-| **Academic Press Library in Signal Processing Series**| Elsevier | Everything you need for an EE diploma.|
+| **Academic Press Library in Signal Processing Volumnes 1 - 5**| Elsevier | Everything you need for an EE diploma.|
+| **Mathematics for Machine Learning**| Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong| Great|
+
 
 ##  Other Skills
 
