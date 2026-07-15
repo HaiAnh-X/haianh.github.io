@@ -7,8 +7,12 @@ My latest research projects and implementations from bachelor to Master. In the 
 
 ---
 
-### Theory 
-#### 1. Efficient Memory-constrained Video Object Segmentation
+### Research 
+#### 1. Post-training quantization for Diffusion Models (Currently)
+* **Focus:** Tensor Decomposition, Machine Learning 
+* **TLDR:** Fast DiTs inference, lightweight memory storage.
+  
+#### 2. Efficient Memory-constrained Video Object Segmentation
 * **Focus:** Tensor Decomposition, Machine Learning 
 * **Status:** Submitted to *NeurIPS 2026*.
 * **TLDR:** Developed an efficient framework for video object segmentation under strict memory constraints leveraging tensor factorization methods to drastically reduce redundancy without sacrificing accuracy.
