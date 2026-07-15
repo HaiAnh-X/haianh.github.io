@@ -21,7 +21,7 @@ permalink: /about/
 
 ### Academic Career
 
-* Jun 2026 - Sep 2026: Visiting Researcher at the Machine Learning and Simulation Lab, University of Stuttgart, Germany (Collaborating with Prof. Mathias Niepert), working on Efficient VLA
+* Jun 2026 - Sep 2026: Visiting Student at the Machine Learning and Simulation Lab, University of Stuttgart, Germany.
 * Jul 2025 - Present: Faculty Development Fellow - Department of Automation Engineering, School of Electrical-Electronics, Hanoi University of Science and Technology (HUST), Vietnam
 * Mar 2022 - Mar 2025: Research Assistant - Signal Processing & Machine Learning Team at LIDP Lab, HUST, Vietnam
 
@@ -31,7 +31,7 @@ permalink: /about/
 
 * English: C1 
 * French: B2
-* German: B1
+* German: A1
 
 ---
 
@@ -74,6 +74,8 @@ Most of this knowledge was inspired by my study program, particularly the introd
 * Diffusion Forward / Reverse SDE
 * Flow Matching ODE
 * Classifier Free Guidance
+
+#### VLM : [VLM_Compression](https://github.com/HaiAnh-X/VLM-Compression)
 
 #### Applied ML
 * Tensor Parallelism
