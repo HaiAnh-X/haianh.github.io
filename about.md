@@ -15,16 +15,14 @@ permalink: /about/
   * Degree: Bachelor of Science in Automation (Specializing in Control Theory and Signal Processing)
     
 * Lao Cai High school for Gifted Student (CLC), Vietnam (2018-2021)
-  * Physic class (K16)
+  * Specializing in Physique
 
 ---
 
 ### Academic Career
 
 * Jun 2026 - Sep 2026: Visiting Student at the Machine Learning and Simulation Lab, University of Stuttgart, Germany.
-* Jul 2025 - Present: Faculty Development Fellow - Department of Automation Engineering, School of Electrical-Electronics, Hanoi University of Science and Technology (HUST), Vietnam
-* Mar 2022 - Mar 2025: Research Assistant - Signal Processing & Machine Learning Team at LIDP Lab, HUST, Vietnam
-
+* Mar 2024 - Mar 2025: Research Internship - Signal Processing & Machine Learning Team at LIDP Lab, HUST, Vietnam
 ---
 
 ### Language Proficiencies
@@ -43,8 +41,6 @@ permalink: /about/
 * Research writing: LaTeX
 
 ---
-
-
 ### Solid Skills
 I'm addicted to breaking down every complex problem into simple pieces.
 * Machine Learning: [Classical - ML](https://github.com/HaiAnh-X/Leetcode-Pytorch)
@@ -62,11 +58,6 @@ Most of this knowledge was inspired by my study program, particularly the introd
 * Tensor train decomposition
 * Canonical polyadic (CP) decomposition
 * Kruskal tensor structure
-
-#### Generative Modelling
-* GANs
-* VAEs and VAE ELBO
-* Score Function
   
 #### Diffusion : [UNet](https://github.com/HaiAnh-X/Diffusion)
 * Diffusion Forward Process 
@@ -78,18 +69,6 @@ Most of this knowledge was inspired by my study program, particularly the introd
 #### VLM : [VLM_Compression](https://github.com/HaiAnh-X/VLM-Compression)
 
 #### Applied ML
-* Tensor Parallelism
-* FSDP
-* DDP
-* Pipeline Parallelism
-* Communication Primitives
-* Mixed precision training
-* Gradient checkpointing
-* Gradient accumulation
-* Profiling
-* Gradient clipping
-* Numerical precision tricks
-* Exploding / vanishing gradients
 * Floating point representation
 * JIT compiling
 * JAX, PyTorch, TensorFlow
@@ -143,4 +122,3 @@ Most of this knowledge was inspired by my study program, particularly the introd
 * Expectation
 * Entropy
 * PDF / PMF
-* Confidence Intervals
