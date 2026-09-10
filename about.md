@@ -30,7 +30,7 @@ permalink: /about/
 ### Language Proficiencies
 
 * English: C1 
-* French: B2
+* French: B1
 * German: A1
 
 ---
