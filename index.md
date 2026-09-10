@@ -8,11 +8,9 @@ title: "Home"
 
 ![C'est moi](/assets/avatar_web.jpg)
 
-Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon). This is my tiny personal page. I'm actively looking for PhD position for 2027 Spring/Fall Intake.
+Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon). This is my tiny personal page. 
 
 Master student in Electrical Engineering - PhD Track Program at the Institut Polytechnique de Paris, France. 
-Also, I am a Visiting Student at the Machine Learning and Simulation Lab (Institute for Artificial Intelligence) at the University of Stuttgart, Germany.
-
 
 ## Research Interests
 Solid background in mathematics for machine learning and signal processing, specializing in tensor/matrix decomposition, compression, and information theory.
