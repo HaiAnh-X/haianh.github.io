@@ -18,7 +18,7 @@ Also, I am a Visiting Student at the Machine Learning and Simulation Lab (Instit
 Solid background in mathematics for machine learning and signal processing, specializing in tensor/matrix decomposition, compression, and information theory.
 
 ## Selected Publications & Projects
-* 05/2026: Efficient Memory-constrained Video Object Segmentation via Subspace Optimization *Submitted to NeurIPS 2026*
+* 08/2026: Efficient Memory-constrained Video Object Segmentation via Subspace Optimization *Submitted to WACV 2027*
 * 04/2026: Edge AI in Smart Manufacturing and Automation *Book Chapter, Wiley-IEEE Press (Accepted - Release in 2027)*
 * 07/2024: [ConvMamba: A Data-Efficient Neural Network for Bearing Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10674880)
 * 07/2023: [PDIWS: Thermal Imaging Dataset for Person Detection in Intrusion Warning Systems *IEEE Statistical Signal Processing Workshop*](https://ieee-dataport.org/documents/pdiws-thermal-imaging-dataset-person-detection-intrusion-warning-systems)
