@@ -12,7 +12,7 @@ permalink: /about/
   * 2026-2027: [Master 2 MICAS - Machine Learning, Communications, and Security](https://micas.telecom-paris.fr/)
 
 * Hanoi University of Science and Technology (HUST), Vietnam (2021 - 2025)
-  * Degree: Bachelor of Science in Automation (Specializing in Control Theory and Signal Processing)
+  * Degree: [Bachelor of Science in Automation](https://seee.hust.edu.vn/en/dao-tao/ee2/) (Specializing in Control Theory and Signal Processing)
   * Early Graduation, Best Graduation Thesis Award, Tenure Track.
     
 * Lao Cai High School for Gifted Students (CLC), Vietnam (2018-2021)
@@ -22,9 +22,9 @@ permalink: /about/
 
 ### Academic Career
 
-* Jun 2026 - Sep 2026: Visiting Student at the Machine Learning and Simulation Lab, University of Stuttgart, Germany.
+* Jun 2026 - Sep 2026: Visiting Student at the [Machine Learning and Simulation Lab](https://www.ki.uni-stuttgart.de/departments/mls/), Institute for Artificial Intelligence (KI), University of Stuttgart, Germany
 
-* Mar 2024 - Mar 2025: Research Internship - Signal Processing & Machine Learning Team at LIDP Lab, HUST, Vietnam
+* Mar 2024 - Mar 2025: Research Internship - Signal Processing & Machine Learning Team at [LIDP Lab](https://seee.hust.edu.vn/vi/nghien-cuu/lidp/), HUST, Vietnam
 
 ---
 
@@ -36,7 +36,7 @@ My Notebook: [Theory of Machine Learning, Information and Communication Theory, 
 
 * English: C1 
 * French: B1
-* German: A2
+* German: A1
 
 ---
 
