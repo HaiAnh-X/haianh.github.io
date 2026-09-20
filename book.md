@@ -4,42 +4,28 @@ title: "Book"
 permalink: /books/
 ---
 
-Here is a curated list of books and textbook chapters that I've read for improving myself.
+Here is a curated list of books and textbook chapters that I've studied.
 
 <style>
   .book-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 2rem 1.5rem;
     margin: 1.5rem 0 2.5rem;
   }
 
   .book-card {
     display: flex;
     flex-direction: column;
-    background: #ffffff;
-    border: 1px solid #e1e4e8;
-    border-radius: 10px;
-    overflow: hidden;
-    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
-  }
-
-  .book-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 10px 22px rgba(0, 0, 0, 0.08);
-    border-color: #cbd5e1;
   }
 
   .book-cover-wrap {
     width: 100%;
-    height: 250px;
-    background: #f8fafc;
+    height: 240px;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 14px;
-    box-sizing: border-box;
-    border-bottom: 1px solid #f1f5f9;
+    margin-bottom: 0.75rem;
   }
 
   .book-cover {
@@ -48,29 +34,20 @@ Here is a curated list of books and textbook chapters that I've read for improvi
     width: auto;
     height: auto;
     object-fit: contain;
-    border-radius: 4px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
-    transition: transform 0.25s ease, box-shadow 0.25s ease;
-  }
-
-  .book-card:hover .book-cover {
-    transform: scale(1.03);
-    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.16);
+    border-radius: 3px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
   }
 
   .book-info {
-    padding: 1rem;
     display: flex;
     flex-direction: column;
-    flex-grow: 1;
   }
 
   .book-title {
-    font-size: 0.98rem;
+    font-size: 0.95rem;
     font-weight: 600;
     line-height: 1.35;
-    margin: 0 0 0.35rem 0;
-    color: #1e293b;
+    margin: 0 0 0.3rem 0;
   }
 
   .book-title a {
@@ -83,77 +60,28 @@ Here is a curated list of books and textbook chapters that I've read for improvi
   }
 
   .book-author {
-    font-size: 0.85rem;
-    color: #64748b;
-    margin: 0 0 0.85rem 0;
-    line-height: 1.4;
+    font-size: 0.84rem;
+    color: #666;
+    margin: 0;
+    line-height: 1.35;
   }
 
-  .book-review {
-    margin-top: auto;
-    font-size: 0.82rem;
-    padding: 0.45rem 0.65rem;
-    background: #f8fafc;
-    border-radius: 6px;
-    border-left: 3px solid #22c55e;
-    color: #334155;
-    line-height: 1.4;
-  }
-
-  .review-label {
-    font-weight: 600;
-    color: #0f172a;
-    margin-right: 0.25rem;
-  }
-
-  /* Dark mode compatibility with Minima auto skin */
   @media (prefers-color-scheme: dark) {
-    .book-card {
-      background: #161b22;
-      border-color: #30363d;
-    }
-    .book-card:hover {
-      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.5);
-      border-color: #58a6ff;
-    }
-    .book-cover-wrap {
-      background: #0d1117;
-      border-bottom-color: #21262d;
-    }
-    .book-title {
-      color: #f0f6fc;
-    }
     .book-author {
-      color: #8b949e;
+      color: #9da5b4;
     }
-    .book-review {
-      background: #21262d;
-      border-left-color: #2ea043;
-      color: #c9d1d9;
-    }
-    .review-label {
-      color: #f0f6fc;
+    .book-cover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
     }
   }
 
   @media (max-width: 600px) {
     .book-grid {
-      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-      gap: 1rem;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 1.5rem 1rem;
     }
     .book-cover-wrap {
       height: 190px;
-      padding: 10px;
-    }
-    .book-title {
-      font-size: 0.9rem;
-    }
-    .book-author {
-      font-size: 0.78rem;
-    }
-    .book-review {
-      font-size: 0.75rem;
-      padding: 0.35rem 0.5rem;
     }
   }
 </style>
@@ -168,9 +96,6 @@ Here is a curated list of books and textbook chapters that I've read for improvi
     <div class="book-info">
       <h3 class="book-title">Tensor Decompositions for Data Science</h3>
       <p class="book-author">Grey Ballard, Tamara G. Kolda</p>
-      <div class="book-review">
-        <span class="review-label">Review:</span> G.O.A.T
-      </div>
     </div>
   </div>
 
@@ -181,9 +106,6 @@ Here is a curated list of books and textbook chapters that I've read for improvi
     <div class="book-info">
       <h3 class="book-title">Elements of Information Theory</h3>
       <p class="book-author">Thomas M. Cover, Joy A. Thomas</p>
-      <div class="book-review">
-        <span class="review-label">Review:</span> Classic, Respectful
-      </div>
     </div>
   </div>
 
@@ -194,22 +116,16 @@ Here is a curated list of books and textbook chapters that I've read for improvi
     <div class="book-info">
       <h3 class="book-title">Convex Optimization</h3>
       <p class="book-author">Stephen Boyd and Lieven Vandenberghe</p>
-      <div class="book-review">
-        <span class="review-label">Review:</span> Timeless
-      </div>
     </div>
   </div>
 
   <div class="book-card">
     <div class="book-cover-wrap">
-      <img class="book-cover" src="{{ '/assets/books/signal-processing.jpg' | relative_url }}" alt="Academic Press Library in Signal Processing Series" loading="lazy">
+      <img class="book-cover" src="{{ '/assets/books/probability-durrett.jpg' | relative_url }}" alt="Probability: Theory and Examples" loading="lazy">
     </div>
     <div class="book-info">
-      <h3 class="book-title">Academic Press Library in Signal Processing Series</h3>
-      <p class="book-author">Elsevier</p>
-      <div class="book-review">
-        <span class="review-label">Review:</span> Everything you need for an EE diploma.
-      </div>
+      <h3 class="book-title"><a href="https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf" target="_blank" rel="noopener">Probability: Theory and Examples</a></h3>
+      <p class="book-author">Rick Durrett</p>
     </div>
   </div>
 
@@ -220,9 +136,6 @@ Here is a curated list of books and textbook chapters that I've read for improvi
     <div class="book-info">
       <h3 class="book-title"><a href="https://cs.nyu.edu/~mohri/mlbook/" target="_blank" rel="noopener">Foundations of Machine Learning</a></h3>
       <p class="book-author">Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar</p>
-      <div class="book-review">
-        <span class="review-label">Review:</span> Rigorous & Essential ML Theory
-      </div>
     </div>
   </div>
 
@@ -233,9 +146,6 @@ Here is a curated list of books and textbook chapters that I've read for improvi
     <div class="book-info">
       <h3 class="book-title"><a href="https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf" target="_blank" rel="noopener">A Graduate Course in Applied Cryptography</a></h3>
       <p class="book-author">Dan Boneh and Victor Shoup</p>
-      <div class="book-review">
-        <span class="review-label">Review:</span> Comprehensive & Gold Standard
-      </div>
     </div>
   </div>
 </div>
@@ -250,22 +160,16 @@ Here is a curated list of books and textbook chapters that I've read for improvi
     <div class="book-info">
       <h3 class="book-title">Methods of Persuasion</h3>
       <p class="book-author">Nick Kolenda</p>
-      <div class="book-review">
-        <span class="review-label">Review:</span> Teached me a lot
-      </div>
     </div>
   </div>
 
   <div class="book-card">
     <div class="book-cover-wrap">
-      <img class="book-cover" src="{{ '/assets/books/intro-psychology.jpg' | relative_url }}" alt="Introduction to PSYCHOLOGY" loading="lazy">
+      <img class="book-cover" src="{{ '/assets/books/dawn-of-everything.jpg' | relative_url }}" alt="The Dawn of Everything" loading="lazy">
     </div>
     <div class="book-info">
-      <h3 class="book-title">Introduction to PSYCHOLOGY</h3>
-      <p class="book-author">Charles Stangor</p>
-      <div class="book-review">
-        <span class="review-label">Review:</span> Breakdown yourself
-      </div>
+      <h3 class="book-title"><a href="https://www.penguin.co.uk/books/314162/the-dawn-of-everything-by-wengrow-david-graeber-and-david/9780141991061" target="_blank" rel="noopener">The Dawn of Everything</a></h3>
+      <p class="book-author">David Graeber and David Wengrow</p>
     </div>
   </div>
 </div>
