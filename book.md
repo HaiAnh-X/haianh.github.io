@@ -186,7 +186,7 @@ Here is a curated list of books and textbook chapters that I've studied.
   </div>
 </div>
 
-## Other Skills
+## Others
 
 <div class="book-grid">
   <div class="book-card">
