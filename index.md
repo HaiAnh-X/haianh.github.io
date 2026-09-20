@@ -16,10 +16,7 @@ Solid Foundations in Machine learning, Information & Communication theory, Contr
 
 ## Selected Publications & Projects
 * 09/2026: Efficient Memory-constrained Video Object Segmentation via Subspace Optimization *Submitted to WACV 2027*
-
 * 09/2026: [Large language models for fault diagnosis in smart manufacturing: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S2667305326000888)
-
 * [2025-2026]: Working as Machine Learning Engineer
-
 * 07/2024: [ConvMamba: A Data-Efficient Neural Network for Bearing Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10674880)
 * 07/2023: [PDIWS: Thermal Imaging Dataset for Person Detection in Intrusion Warning Systems *IEEE Statistical Signal Processing Workshop*](https://ieee-dataport.org/documents/pdiws-thermal-imaging-dataset-person-detection-intrusion-warning-systems)
