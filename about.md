@@ -29,7 +29,7 @@ permalink: /about/
 
 * English: C1 
 * French: B1
-* German: A1
+* German: A2
 
 ---
 
@@ -46,79 +46,16 @@ I'm addicted to breaking down every complex problem into simple pieces.
 * Machine Learning: [Classical - ML](https://github.com/HaiAnh-X/Leetcode-Pytorch)
 * Mathematics: [Julia](https://github.com/HaiAnh-X/TensorDecom-in-Julia)
 * Modern Architecture: [Advances in LLMs, VLMS, ...](https://github.com/HaiAnh-X/TorchLeet)
-* Information Theory: [Written]
-* Signal Processing: [All filters I've studied in MATLAB]
   
-### What I have studied 
+My Notebook: [Theory of Machine Learning, Information and Communication Theory, Optimization and Cryptology](https://husteduvn-my.sharepoint.com/:o:/r/personal/anh_lehai_hust_edu_vn/Documents/Notebooks/Tensor?d=w6c9feccbc2964b1390b7228cb10bd303&csf=1&web=1&e=Q1B5Hy)
+
+---
+
+### What I know 
 Most of this knowledge was inspired by my study program, particularly the introductory courses. I then expanded and developed it further on my own. 
 
 #### Tensor Decomposition
-* Tensor operations
-* Tucker decomposition
-* Tensor train decomposition
-* Canonical polyadic (CP) decomposition
-* Kruskal tensor structure
-  
 #### Diffusion : [UNet](https://github.com/HaiAnh-X/Diffusion)
-* Diffusion Forward Process 
-* Diffusion Reverse Process (DDIM / DDPM)
-* Diffusion Forward / Reverse SDE
-* Flow Matching ODE
-* Classifier Free Guidance
-
 #### VLM : [VLM_Compression](https://github.com/HaiAnh-X/VLM-Compression)
 
-#### Applied ML
-* Floating point representation
-* JIT compiling
-* JAX, PyTorch, TensorFlow
-* Quantization
-* Prunning
-* Merging
 
-#### Theory ML
-* Curse of dimensionality
-* S4
-* CNNs
-* RNNs / LSTMs
-* Autoencoders
-* Gumbel-Softmax
-* MLE vs MAP
-* Newton's Method
-* Linear Regression
-* Activation Functions
-* Loss Functions
-* No Free Lunch Theorem
-* BatchNorm / LayerNorm / RMSNorm
-* Variance and Covariance
-* Adam / AdamW / Adagrad
-* Bias-Variance Tradeoff
-* Backprop
-* Regularisation Methods
-* Unsupervised vs Supervised
-* Clustering Algorithms (e.g. k-means)
-* K-Nearest Neighbours
-* SVMs
-* Boosting
-* Bagging
-* Decision Trees
-* Ensembles
-* Bayes Theorem
-* Precision / Recall / F1 / AUC-ROC
-* KL Divergence
-* Jensen-Shannon Divergence
-* Weight initialisation
-* Gradient Descent / SGD
-* Overfitting / Underfitting
-* Cross validation
-* Data Whitening
-* Convex functions
-* Early Stopping
-* Domain Adaptation
-* Dimensionality Reduction 
-* Transfer Learning
-* Few shot / Zero shot learning
-* Second Order Methods
-* Expectation
-* Entropy
-* PDF / PMF
