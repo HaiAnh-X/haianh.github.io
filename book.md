@@ -6,6 +6,8 @@ permalink: /books/
 
 Here is a curated list of books and textbook chapters that I've studied.
 
+My dream is to write a book "Foundations of Abcxyz" one day :D.
+
 <style>
   .book-grid {
     display: grid;
