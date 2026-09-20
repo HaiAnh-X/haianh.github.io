@@ -22,6 +22,7 @@ permalink: /about/
 ### Academic Career
 
 * Jun 2026 - Sep 2026: Visiting Student at the Machine Learning and Simulation Lab, University of Stuttgart, Germany.
+
 * Mar 2024 - Mar 2025: Research Internship - Signal Processing & Machine Learning Team at LIDP Lab, HUST, Vietnam
 ---
 

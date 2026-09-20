@@ -73,6 +73,15 @@ Here is a curated list of books and textbook chapters that I've read for improvi
     color: #1e293b;
   }
 
+  .book-title a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .book-title a:hover {
+    text-decoration: underline;
+  }
+
   .book-author {
     font-size: 0.85rem;
     color: #64748b;
@@ -200,6 +209,32 @@ Here is a curated list of books and textbook chapters that I've read for improvi
       <p class="book-author">Elsevier</p>
       <div class="book-review">
         <span class="review-label">Review:</span> Everything you need for an EE diploma.
+      </div>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <div class="book-cover-wrap">
+      <img class="book-cover" src="{{ '/assets/books/foundations-of-ml.jpg' | relative_url }}" alt="Foundations of Machine Learning" loading="lazy">
+    </div>
+    <div class="book-info">
+      <h3 class="book-title"><a href="https://cs.nyu.edu/~mohri/mlbook/" target="_blank" rel="noopener">Foundations of Machine Learning</a></h3>
+      <p class="book-author">Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar</p>
+      <div class="book-review">
+        <span class="review-label">Review:</span> Rigorous & Essential ML Theory
+      </div>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <div class="book-cover-wrap">
+      <img class="book-cover" src="{{ '/assets/books/applied-cryptography.jpg' | relative_url }}" alt="A Graduate Course in Applied Cryptography" loading="lazy">
+    </div>
+    <div class="book-info">
+      <h3 class="book-title"><a href="https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf" target="_blank" rel="noopener">A Graduate Course in Applied Cryptography</a></h3>
+      <p class="book-author">Dan Boneh and Victor Shoup</p>
+      <div class="book-review">
+        <span class="review-label">Review:</span> Comprehensive & Gold Standard
       </div>
     </div>
   </div>
