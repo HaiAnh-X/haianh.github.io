@@ -4,8 +4,6 @@ layout: page
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 20px 0;">
   <img src="{{ '/assets/avatar_web.jpg' | relative_url }}" alt="Hai-Anh LE" style="width: 100%; aspect-ratio: 1; object-fit: cover; object-position: center 20%; border-radius: 6px;">
-  <img src="{{ '/assets/bachkhoa.jpg' | relative_url }}" alt="HUST" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px;">
-  <img src="{{ '/assets/graduation.jpg' | relative_url }}" alt="Graduation" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px;">
   <img src="{{ '/assets/vietsol.jpg' | relative_url }}" alt="Vietsol" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px;">
 </div>
 
