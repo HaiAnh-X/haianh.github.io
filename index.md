@@ -10,7 +10,7 @@ layout: page
 Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon). This is my tiny personal page.
 Master student in Electrical Engineering - PhD Track Program at the Institut Polytechnique de Paris, France.
 
-Strong foundations in Machine learning, Information & Communication theory, Control Theory, Optimization and Cryptology.
+Strong foundations in Machine learning, Information & Communication theory, Control theory, Optimization and Cryptology.
 
 ## Research Interest & Selected Publications
 [Google Scholar Profile](https://scholar.google.com/citations?user=4TFrfo0AAAAJ)
