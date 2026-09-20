@@ -8,10 +8,9 @@ layout: page
   <img src="{{ '/assets/graduation.jpg' | relative_url }}" alt="Graduation" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px;">
   <img src="{{ '/assets/vietsol.jpg' | relative_url }}" alt="Vietsol" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px;">
 </div>
-    <p style="margin: 0 0 10px 0;">Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon). This is my tiny personal page.</p>
-    <p style="margin: 0;">Master student in Electrical Engineering - PhD Track Program at the Institut Polytechnique de Paris, France.</p>
-  </div>
-</div>
+
+Xin chào / Hi / Salut / Hallo. I'm Hai-Anh LE (Léon). This is my tiny personal page.
+Master student in Electrical Engineering - PhD Track Program at the Institut Polytechnique de Paris, France.
 
 Strong foundations in Machine learning, Information & Communication theory, Control Theory, Optimization and Cryptology.
 

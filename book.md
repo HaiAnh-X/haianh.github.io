@@ -103,18 +103,6 @@ Here is a curated list of books and textbook chapters that I've studied.
 <div class="book-grid">
   <div class="book-card">
     <div class="book-cover-wrap">
-      <a href="https://tensortextbook.com/" target="_blank" rel="noopener">
-        <img class="book-cover" src="{{ '/assets/books/tensor-decompositions.png' | relative_url }}" alt="Tensor Decompositions for Data Science" loading="lazy">
-      </a>
-    </div>
-    <div class="book-info">
-      <h3 class="book-title"><a href="https://tensortextbook.com/" target="_blank" rel="noopener">Tensor Decompositions for Data Science</a></h3>
-      <p class="book-author">Grey Ballard, Tamara G. Kolda</p>
-    </div>
-  </div>
-
-  <div class="book-card">
-    <div class="book-cover-wrap">
       <a href="https://www.wiley.com/en-us/Elements+of+Information+Theory%2C+2nd+Edition-p-9780471241959" target="_blank" rel="noopener">
         <img class="book-cover" src="{{ '/assets/books/information-theory.jpg' | relative_url }}" alt="Elements of Information Theory" loading="lazy">
       </a>
@@ -158,6 +146,18 @@ Here is a curated list of books and textbook chapters that I've studied.
     <div class="book-info">
       <h3 class="book-title"><a href="https://cs.nyu.edu/~mohri/mlbook/" target="_blank" rel="noopener">Foundations of Machine Learning</a></h3>
       <p class="book-author">Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar</p>
+    </div>
+  </div>
+
+  <div class="book-card">
+    <div class="book-cover-wrap">
+      <a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/" target="_blank" rel="noopener">
+        <img class="book-cover" src="{{ '/assets/books/understanding-ml.jpg' | relative_url }}" alt="Understanding Machine Learning: From Theory to Algorithms" loading="lazy">
+      </a>
+    </div>
+    <div class="book-info">
+      <h3 class="book-title"><a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/" target="_blank" rel="noopener">Understanding Machine Learning: From Theory to Algorithms</a></h3>
+      <p class="book-author">Shai Shalev-Shwartz, Shai Ben-David</p>
     </div>
   </div>
 
