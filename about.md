@@ -8,8 +8,8 @@ permalink: /about/
 
 * Institut Polytechnique de Paris (IP Paris), France (Oct 2025 - Present)
   * Program: PhD Track in Electrical Engineering (2+3 years)
-  * 2025-2026: Master 1 DATAPAC - Data Analysis and Pattern Classification
-  * 2026-2027: Master 2 MICAS - Machine Learning, Communications, and Security
+  * 2025-2026: [Master 1 DATAPAC - Data Analysis and Pattern Classification](https://www.telecom-sudparis.eu/en/formation/master-of-science-data-analysis-pattern-classification/)
+  * 2026-2027: [Master 2 MICAS - Machine Learning, Communications, and Security](https://micas.telecom-paris.fr/)
 
 * Hanoi University of Science and Technology (HUST), Vietnam (2021 - 2025)
   * Degree: Bachelor of Science in Automation (Specializing in Control Theory and Signal Processing)
