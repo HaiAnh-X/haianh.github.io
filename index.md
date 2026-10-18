@@ -15,7 +15,7 @@ Strong foundations in Machine learning, Information & Communication theory, Cont
 ## Research Interest & Selected Publications
 [Google Scholar Profile](https://scholar.google.com/citations?user=4TFrfo0AAAAJ)
 
-* 09/2026: Efficient Memory-constrained Video Object Segmentation via Subspace Optimization *Submitted to WACV 2027*
+* 09/2026: Efficient Memory-constrained Video Object Segmentation via Subspace Optimization *Accepted at WACV2027 - Algorithm Track*
 * 09/2026: [Large language models for fault diagnosis in smart manufacturing: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S2667305326000888)
 * 2025: Working as Applied AI Engineer
 * 07/2024: [ConvMamba: A Data-Efficient Neural Network for Bearing Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10674880)
